@@ -8,4 +8,4 @@ Pages currently under consideration:
 
 - [Homepage](https://disquietdog.github.io/gvenglish-wpedpack/)
 - [English for Academic Purposes (EAP)](https://disquietdog.github.io/gvenglish-wpedpack/programs/english-for-academic-pathways/)
-    - [v2](https://disquietdog.github.io/gvenglish-wpedpack/programs/english-for-academic-pathways/)
+    - [v2](https://disquietdog.github.io/gvenglish-wpedpack/programs/english-for-academic-pathways/v2/)
