@@ -6,5 +6,6 @@ All are conceived as working within the constraints of GV English’s existing W
 
 Pages currently under consideration: 
 
-- Homepage
-- English for Academic Purposes (EAP)
+- [Homepage](/gvenglish-wpedpack/)
+- [English for Academic Purposes (EAP)](/gvenglish-wpedpack/programs/english-for-academic-pathways/)
+    - [v2](/gvenglish-wpedpack/programs/english-for-academic-pathways/)
