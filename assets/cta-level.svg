@@ -1,0 +1,40 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <style>
+      .forange, .forange-30 {
+        fill: #de9934;
+      }
+
+      .fwhite {
+        fill: #fff;
+      }
+
+      .forange-30 {
+        opacity: 0.3;
+      }
+
+      .dash {
+        fill: none;
+        stroke: #414042;
+        stroke-width: 3px;
+        stroke-dasharray: 6 6;
+      }
+
+      .dash, .stops {
+        stroke-miterlimit: 10;
+      }
+
+      .stops {
+        fill: #414042;
+        stroke: #fff;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <circle class="forange" cx="120" cy="120" r="120"/>
+  <path class="fwhite" d="M234.45,156.16,218.5,148l-15-28-25-9.5L132.5,61l-19,28-34,12-72,60.72a120,120,0,0,0,227-5.56Z"/>
+  <path class="forange-30" d="M234.45,156.16,218.5,148l-15-28-25-9.5L132.5,61,120,106.33,153,123l-33,33.33L83.67,171,57,221.67l.43.74a120,120,0,0,0,177-66.25Z"/>
+  <polyline class="dash" points="57 221.67 83.67 171 120 156.33 153 123 120 106.33 132.5 61"/>
+  <path class="stops" d="M125,106.33a5,5,0,1,1-5-5A5,5,0,0,1,125,106.33ZM153,118a5,5,0,1,0,5,5A5,5,0,0,0,153,118Zm-33,33.33a5,5,0,1,0,5,5A5,5,0,0,0,120,151.33ZM83.67,166a5,5,0,1,0,5,5A5,5,0,0,0,83.67,166Z"/>
+  <path class="fwhite" d="M158,45c-7.33,5.7-14.67-5.7-22,0V30c7.33-5.7,14.67,5.7,22,0ZM134,63V29.67a1.5,1.5,0,0,0-3,0V63a1.5,1.5,0,0,0,3,0Z"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .white {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle cx="18" cy="18" r="18"/>
+  <path class="white" d="M8.4,12.6H6V9H8.4ZM12,9H9.6v3.6H12Zm3.6,0H13.2v3.6h2.4Zm3.6,0H16.8v3.6h2.4Zm3.6,0H20.4v3.6h2.4ZM8.4,13.8H6v3.6H8.4Zm3.6,0H9.6v3.6H12Zm3.6,0H13.2v3.6h2.4Zm3.6,0H16.8v3.6h2.4Zm3.6,0H20.4v3.6h2.4ZM8.4,18.6H6v3.6H8.4Zm3.6,0H9.6v3.6H12Zm3.6,0H13.2v3.6h2.4Zm3.6,0H16.8v3.6h2.4Zm3.6,0H20.4v3.6h2.4ZM8.4,23.4H6V27H8.4Zm3.6,0H9.6V27H12Zm3.6,0H13.2V27h2.4Zm3.6,0H16.8V27h2.4Zm3.6,0H20.4V27h2.4Z"/>
+  <path class="white" d="M26.4,12.6H24V9h2.4ZM30,9H27.6v3.6H30Zm-3.6,4.8H24v3.6h2.4Zm3.6,0H27.6v3.6H30Zm-3.6,4.8H24v3.6h2.4Zm3.6,0H27.6v3.6H30Zm-3.6,4.8H24V27h2.4Zm3.6,0H27.6V27H30Z"/>
+</svg>
