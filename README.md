@@ -6,6 +6,6 @@ All are conceived as working within the constraints of GV English’s existing W
 
 Pages currently under consideration: 
 
-- [Homepage](/gvenglish-wpedpack/)
-- [English for Academic Purposes (EAP)](/gvenglish-wpedpack/programs/english-for-academic-pathways/)
-    - [v2](/gvenglish-wpedpack/programs/english-for-academic-pathways/)
+- [Homepage](https://disquietdog.github.io/gvenglish-wpedpack/)
+- [English for Academic Purposes (EAP)](https://disquietdog.github.io/gvenglish-wpedpack/programs/english-for-academic-pathways/)
+    - [v2](https://disquietdog.github.io/gvenglish-wpedpack/programs/english-for-academic-pathways/)
